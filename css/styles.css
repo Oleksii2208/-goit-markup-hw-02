@@ -12,7 +12,9 @@ ol {
 a {
   text-decoration: none;
 }
-
+li.white-background {
+  background-color: #ffffff;
+}
 /* -------------------heder----------------- */
 
 .logo {
