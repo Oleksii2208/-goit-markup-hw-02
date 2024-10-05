@@ -115,11 +115,11 @@ a {
   color: #2e2f42;
   text-transform: capitalize;
 }
-
-.team-list {
-  background-color: #ffffff;
+.team-item {
+  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
+    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  background-color: #fff;
 }
-
 .team-item-image {
 }
 .team-subtitle {
@@ -138,17 +138,16 @@ a {
   color: #434455;
 }
 
-.team-title {
+.team-list {
 }
 
-.team-item {
-}
 .team-item-image {
 }
 .team-subtitle {
 }
 .team-text {
 }
+
 /* -----------------portfolio------------- */
 
 .portfolio {
