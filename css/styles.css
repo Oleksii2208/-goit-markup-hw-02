@@ -116,8 +116,11 @@ a {
   text-transform: capitalize;
 }
 
+.team-list {
+  background-color: #ffffff;
+}
+
 .team-item-image {
-  background-color: #fff;
 }
 .team-subtitle {
   font-weight: 500;
@@ -135,6 +138,17 @@ a {
   color: #434455;
 }
 
+.team-title {
+}
+
+.team-item {
+}
+.team-item-image {
+}
+.team-subtitle {
+}
+.team-text {
+}
 /* -----------------portfolio------------- */
 
 .portfolio {
